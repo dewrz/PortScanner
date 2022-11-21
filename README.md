@@ -13,5 +13,7 @@ Now I added a "with open" statement to import a list of IP addresses that we app
 1. You should never scan IP addresses without permission.<br>
 2. If you're having trouble, pull up the manual and follow the syntax of the module.<br>
 3. This script has to be run with admin/root privileges.<br>
+<br>
+Credit: Howard E. Poston III, Python for Cybersecurity
 
 
